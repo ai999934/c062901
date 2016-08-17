@@ -39,5 +39,6 @@ void euler(double &x, double &v, double f, double h)
 }
 
 // g++ c062904.cpp libglibw32-3.a -IC:\mingw-jp-20040217\include\ -LC:\mingw-jp-20040217\lib\ -IC:\Glibw32\ -LC:\Glibw32\ -luser
+// 32 -lgdi32 // ->2016.8.17Added.
 // rename a.exe c062904.*
 // c062904.exe > c062904.txt
