@@ -1,5 +1,5 @@
 # c062901
-// -> http://www11.atwiki.jp/kenichiro/pages/32.html
+// -> External reference http://www11.atwiki.jp/kenichiro/pages/32.html
 #include <stdio.h>
 #include "glibw32.h"
 using namespace std;
