@@ -1,4 +1,4 @@
-// -> http://www11.atwiki.jp/kenichiro/pages/32.html
+// -> External reference http://www11.atwiki.jp/kenichiro/pages/32.html
 #include <stdio.h>
 using namespace std;
 
